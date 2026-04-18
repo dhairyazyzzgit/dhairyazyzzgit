@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=550&lines=Java;JavaScript;DSA;Web+Development;React;Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=450&speed=80&deleteSpeed=60&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+web+applications;Exploring+DSA+and+problem-solving;Creating+clean+and+scalable+code;Computer+Science+student+with+builder+mindset;Learning%2C+building%2C+and+improving+every+day" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🧠 About
 
-Computer Science student focused on **problem-solving + building real-world products**.
+Computer Science student focused on **problem-solving + building real-world products**.  
 I care about writing clean code, strong fundamentals, and creating things that actually feel good to use.
 
 ---
@@ -33,29 +33,27 @@ I care about writing clean code, strong fundamentals, and creating things that a
 <tr>
 <td width="50%">
 
-### 🛒 Shopix
+### 🛒 Shopix  
+🔗 <a href="https://e-commerce-product-explorer-cart-ma-self.vercel.app/">Live</a>  
+📂 <a href="https://github.com/dhairyazyzzgit/E-Commerce-Product-Explorer-Cart-Management-App">Repo</a>  
 
-🔗 <a href="https://e-commerce-product-explorer-cart-ma-self.vercel.app/">Live</a>
-📂 <a href="https://github.com/dhairyazyzzgit/E-Commerce-Product-Explorer-Cart-Management-App">Repo</a>
-
-Modern e-commerce app
-• Cart, wishlist, checkout
-• Product filtering & sorting
-• Clean, premium UI
+Modern e-commerce app  
+• Cart, wishlist, checkout  
+• Product filtering & sorting  
+• Clean, premium UI  
 
 </td>
 
 <td width="50%">
 
-### 🩺 MediBook
+### 🩺 MediBook  
+🔗 <a href="https://medibook-sooty-eight.vercel.app/">Live</a>  
+📂 <a href="https://github.com/dhairyazyzzgit/MediBook">Repo</a>  
 
-🔗 <a href="https://medibook-sooty-eight.vercel.app/">Live</a>
-📂 <a href="https://github.com/dhairyazyzzgit/MediBook">Repo</a>
-
-Doctor appointment platform
-• Book & manage appointments
-• Real-world use case
-• Structured UX
+Doctor appointment platform  
+• Book & manage appointments  
+• Real-world use case  
+• Structured UX  
 
 </td>
 </tr>
@@ -67,21 +65,21 @@ Doctor appointment platform
 
 ## 🎯 Current Focus
 
-* DSA & problem-solving depth
-* Building production-level applications
-* Improving code structure & scalability
-* Learning system design
-* Exploring AI + engineering
+- DSA & problem-solving depth  
+- Building production-level applications  
+- Improving code structure & scalability  
+- Learning system design  
+- Exploring AI + engineering  
 
 ---
 
 ## 🔌 Beyond Code
 
-* Electronics & hardware experimentation
-* Building real-world projects beyond software
-* Sharing builds on YouTube
+- Electronics & hardware experimentation  
+- Building real-world projects beyond software  
+- Sharing builds on YouTube  
 
-🎥 https://www.youtube.com/@ProjectShowcase-Dhairya
+🎥 https://www.youtube.com/@ProjectShowcase-Dhairya  
 
 ---
 

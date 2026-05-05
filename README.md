@@ -1,63 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Dhairya%20Maru&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,20,24,30&fontColor=ffffff&desc=Computer%20Science%20Student%20%7C%20DSA%20%2B%20Web%20Development&descAlign=50&descAlignY=55&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhairya%20Maru&fontAlign=50&fontAlignY=34&color=gradient&customColorList=12,20,24,30&fontColor=ffffff&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Builder%20%7C%20DSA%20Focused&descAlign=50&descAlignY=55&descSize=15" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=500&speed=75&deleteSpeed=55&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+real-world+web+products;Engineering+clean+and+scalable+systems;Deepening+DSA+and+problem-solving;Turning+ideas+into+deployed+applications;Learning%2C+building%2C+shipping%2C+improving" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=450&speed=80&deleteSpeed=60&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real-world+web+applications;Exploring+DSA+and+problem-solving;Creating+clean+and+scalable+code;Computer+Science+student+with+builder+mindset;Learning%2C+building%2C+and+improving+every+day" />
+<br/><br/>
+
+<a href="https://portfoliowebsite-six-amber.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dhairya-maru-54757137a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@ProjectShowcase-Dhairya">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
-Computer Science student focused on **problem-solving + building real-world products**.  
-I care about writing clean code, strong fundamentals, and creating things that actually feel good to use.
+Computer Science student focused on **real-world product building + strong DSA fundamentals**.
+
+- Clean code  
+- Scalable systems  
+- Practical applications  
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,react,html,css,nodejs,git,github,vscode&perline=9" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,react,html,css,nodejs,firebase,git,github,vscode&perline=10" />
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
-<div align="center">
+### 🛡️ SiteSentri  
+🔗 https://site-sentri.vercel.app/login  
+📂 https://github.com/dhairyazyzzgit/SiteSentri  
 
-<table>
-<tr>
-<td width="50%">
+- Google Safe Browsing integration  
+- URLScan analysis  
+- Heuristic risk scoring  
+- Domain age + URL checks  
+- Clean verdict system  
+
+---
 
 ### 🛒 Shopix  
-🔗 <a href="https://e-commerce-product-explorer-cart-ma-self.vercel.app/">Live</a>  
-📂 <a href="https://github.com/dhairyazyzzgit/E-Commerce-Product-Explorer-Cart-Management-App">Repo</a>  
+🔗 https://e-commerce-product-explorer-cart-ma-self.vercel.app/  
+📂 https://github.com/dhairyazyzzgit/E-Commerce-Product-Explorer-Cart-Management-App  
 
-Modern e-commerce app  
-• Cart, wishlist, checkout  
-• Product filtering & sorting  
-• Clean, premium UI  
+- Cart, wishlist, checkout  
+- Filtering & sorting  
+- Order history  
+- Premium UI  
 
-</td>
-
-<td width="50%">
+---
 
 ### 🩺 MediBook  
-🔗 <a href="https://medibook-sooty-eight.vercel.app/">Live</a>  
-📂 <a href="https://github.com/dhairyazyzzgit/MediBook">Repo</a>  
+🔗 https://medibook-sooty-eight.vercel.app/  
+📂 https://github.com/dhairyazyzzgit/MediBook  
 
-Doctor appointment platform  
-• Book & manage appointments  
-• Real-world use case  
-• Structured UX  
+- Appointment booking  
+- Manage visits  
+- Real-world workflow  
+- Clean UX  
 
-</td>
-</tr>
-</table>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhairyazyzzgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyazyzzgit&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyazyzzgit&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -65,19 +94,19 @@ Doctor appointment platform
 
 ## 🎯 Current Focus
 
-- DSA & problem-solving depth  
-- Building production-level applications  
-- Improving code structure & scalability  
-- Learning system design  
-- Exploring AI + engineering  
+- DSA & problem solving  
+- Full-stack applications  
+- Clean architecture  
+- System design  
+- AI + engineering  
 
 ---
 
 ## 🔌 Beyond Code
 
-- Electronics & hardware experimentation  
-- Building real-world projects beyond software  
-- Sharing builds on YouTube  
+- Electronics & hardware  
+- Real-world builds  
+- YouTube project demos  
 
 🎥 https://www.youtube.com/@ProjectShowcase-Dhairya  
 
@@ -86,22 +115,6 @@ Doctor appointment platform
 ## 🌐 Portfolio
 
 🔗 https://portfoliowebsite-six-amber.vercel.app/
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dhairya-maru-54757137a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@ProjectShowcase-Dhairya">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
 
 ---
 

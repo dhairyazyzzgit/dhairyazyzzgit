@@ -91,7 +91,7 @@ I enjoy taking ideas from concept to deployment by focusing on clean architectur
 
 # 🚀 Featured Projects
 
-## 🔥 ruin
+## 🔥 RUIN
 
 🔗 https://ruin.s.gy/scan
 

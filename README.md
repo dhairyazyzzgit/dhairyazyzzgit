@@ -91,11 +91,11 @@ I enjoy taking ideas from concept to deployment by focusing on clean architectur
 
 # 🚀 Featured Projects
 
-## 🔥 Ruyn
+## 🔥 ruin
 
 🔗 https://ruin.s.gy/scan
 
-A premium AI-powered entertainment platform that analyzes a person's photo and generates a cinematic psychological **"warning dossier"** featuring personality insights, relationship red flags, green flags, emotional tendencies, and an overall **"Will They Ruyn You?"** verdict.
+A fun AI-powered entertainment platform that analyzes a person's photo and generates a cinematic psychological **"warning dossier"** featuring personality insights, relationship red flags, green flags, emotional tendencies, and an overall **"Will They ruin You?"** verdict.
 
 - AI-powered personality & relationship analysis
 - Classified intelligence-style dossier generation
